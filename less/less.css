@@ -1,0 +1,9 @@
+/*定义变量*/
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+.box .boe1 {
+  background-color: red;
+}
